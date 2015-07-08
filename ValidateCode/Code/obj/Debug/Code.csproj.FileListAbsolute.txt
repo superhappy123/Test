@@ -1,0 +1,4 @@
+D:\Visual Studio 2013\ValidateCode\Code\bin\Debug\Code.dll
+D:\Visual Studio 2013\ValidateCode\Code\bin\Debug\Code.pdb
+D:\Visual Studio 2013\ValidateCode\Code\obj\Debug\Code.dll
+D:\Visual Studio 2013\ValidateCode\Code\obj\Debug\Code.pdb

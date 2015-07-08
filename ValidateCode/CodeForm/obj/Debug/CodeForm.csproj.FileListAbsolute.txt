@@ -1,0 +1,10 @@
+D:\Visual Studio 2013\ValidateCode\CodeForm\bin\Debug\CodeForm.exe.config
+D:\Visual Studio 2013\ValidateCode\CodeForm\bin\Debug\CodeForm.exe
+D:\Visual Studio 2013\ValidateCode\CodeForm\bin\Debug\CodeForm.pdb
+D:\Visual Studio 2013\ValidateCode\CodeForm\bin\Debug\Code.dll
+D:\Visual Studio 2013\ValidateCode\CodeForm\bin\Debug\Code.pdb
+D:\Visual Studio 2013\ValidateCode\CodeForm\obj\Debug\CodeForm.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\ValidateCode\CodeForm\obj\Debug\CodeForm.Properties.Resources.resources
+D:\Visual Studio 2013\ValidateCode\CodeForm\obj\Debug\CodeForm.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\ValidateCode\CodeForm\obj\Debug\CodeForm.exe
+D:\Visual Studio 2013\ValidateCode\CodeForm\obj\Debug\CodeForm.pdb
